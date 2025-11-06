@@ -1,0 +1,20 @@
+---
+title: "Linear Models"
+author: "Mukta Patwari"
+date: "2025-11-06"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Load necessary packages
+
+```{r}
+library(tidyverse)
+library(p8105.datasets)
+
+set.seed(1)
+```
+
